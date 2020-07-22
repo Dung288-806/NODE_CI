@@ -24,3 +24,7 @@ test('Should sum to equal', () => {
     const sum = 1 + 3
     expect(sum).toEqual(4)
 })
+test('Should Subtract to equal', () => {
+    const sum = 3 - 1
+    expect(sum).toEqual(4)
+})
